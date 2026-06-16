@@ -102,5 +102,5 @@ I'm an interactive systems and web developer passionate about breaking into open
 </p>
 
 <p align="right" style="color: #444; font-size: 11px; font-family: monospace;">
-  <code>dresucas // open_source_sequence_initialized</code>
+  <code>dresucas, 2026.</code>
 </p>
