@@ -1,61 +1,72 @@
+<!-- HEADER BANNER -->
 <p align="center">
-  <!-- Minimalist Neumorphic Style Header Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f0f0f3&height=160&section=header&text=ADETEYA&fontSize=45&fontColor=4a5568&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=180&section=header&text=ADETEYA&fontSize=50&fontColor=ffffff&fontAlignY=50" width="100%" alt="Header" />
 </p>
 
+<!-- SUB-HEADER / METRICS BAR -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dresucas&label=connections&color=718096&style=flat-square" alt="Views" />
+  <code>🛸 SYSTEM: ONLINE</code> &nbsp;&nbsp;▪&nbsp;&nbsp; 
+  <code>📍 LOCATION: INDIA</code> &nbsp;&nbsp;▪&nbsp;&nbsp; 
+  <code>⚡ FOCUS: 3D GRAPHICS & SYSTEMS</code>
 </p>
 
 <br />
 
+<!-- MAIN INSIGHT GRID -->
 <table align="center" border="0" cellpadding="20" cellspacing="0" width="100%">
   <tr>
-    <!-- Left Column: Biography -->
-    <td width="55%" valign="top">
-      <h3 style="color: #2d3748; font-weight: 600;">Creative Developer & Systems Explorer</h3>
-      <p style="color: #718096; line-height: 1.6;">
-        Crafting fluid web interfaces, immersive 3D experiences, and lightweight tools. Focused on clean architecture, modern UI design, and high-performance applications.
+    <!-- Left Column: Manifesto -->
+    <td width="60%" valign="top">
+      <h3 style="border-bottom: none; margin-bottom: 10px;">🧬 Profile</h3>
+      <p style="color: #888; line-height: 1.6; font-size: 15px;">
+        Creative developer focusing on the intersection of interactive 3D spaces, real-time client-server architectures, and high-performance frontend interfaces. Driven by sleek UI aesthetics, micro-interactions, and optimized logic loops.
       </p>
       <br />
-      <p style="color: #a0aec0; font-size: 13px;">
-        ⚡ <code>Current focus:</code> Advanced WebGL workflows & real-time architecture.<br />
-        🌐 <code>Based in:</code> India
+      <p>
+        🤝 <code>Current Project:</code> Interactive environments & multiplayer systems.<br />
+        🛠️ <code>Philosophy:</code> Fast execution, mathematical precision, matte design.
       </p>
     </td>
     
-    <!-- Right Column: Clean, Matte Core Stack -->
-    <td width="45%" valign="top" align="right">
-      <h4 style="color: #4a5568; margin-bottom: 15px;">Selected Stack</h4>
-      <p>
-        <code style="background: #e2e8f0; color: #4a5568; padding: 4px 8px; border-radius: 4px; font-size: 12px;">TypeScript</code>
-        <code style="background: #e2e8f0; color: #4a5568; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Three.js</code>
-        <code style="background: #e2e8f0; color: #4a5568; padding: 4px 8px; border-radius: 4px; font-size: 12px;">React</code>
+    <!-- Right Column: Clean Tech Matrix -->
+    <td width="40%" valign="top">
+      <h3 style="border-bottom: none; margin-bottom: 10px;">🛠️ Stack</h3>
+      
+      <strong>Core Languages</strong>
+      <p style="margin-top: 5px; margin-bottom: 15px;">
+        <code>TypeScript</code> &bull; <code>JavaScript</code> &bull; <code>Go</code>
       </p>
+      
+      <strong>Creative / Engine</strong>
+      <p style="margin-top: 5px; margin-bottom: 15px;">
+        <code>Three.js</code> &bull; <code>WebGL</code> &bull; <code>TailwindCSS</code>
+      </p>
+      
+      <strong>Systems / Database</strong>
       <p style="margin-top: 5px;">
-        <code style="background: #e2e8f0; color: #4a5568; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Node.js</code>
-        <code style="background: #e2e8f0; color: #4a5568; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Go</code>
-        <code style="background: #e2e8f0; color: #4a5568; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Firebase</code>
+        <code>Node.js</code> &bull; <code>Firebase</code> &bull; <code>Git</code>
       </p>
     </td>
   </tr>
 </table>
 
 <br />
-<hr style="border: 0; height: 1px; background: #e2e8f0;" />
-<br />
 
-### 📊 System Metrics
+<!-- PERFORMANCE METRICS SECTION -->
+<h3 align="center" style="border-bottom: none; margin-bottom: 20px;">📊 Activity Overview</h3>
 
 <p align="center">
-  <!-- GitHub Stats using a custom sleek, low-contrast layout (neutral/clean theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dresucas&show_icons=true&theme=clean&hide_border=true&title_color=2d3748&text_color=718096&icon_color=4a5568&bg_color=f7fafc" width="48%" />
-  <!-- Top Languages with a matching matte theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresucas&layout=compact&theme=clean&hide_border=true&title_color=2d3748&text_color=718096&bg_color=f7fafc" width="48%" />
+  <!-- Sleek, Borderless Monochromatic Stats (Adapts beautifully to Dark Mode) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dresucas&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" width="48%" alt="Stats" />
+  <!-- Matching Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresucas&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="48%" alt="Languages" />
 </p>
 
 <br />
+<hr style="border: 0; height: 1px; background: #30363d;" />
+<br />
 
-<p align="center" style="color: #a0aec0; font-size: 12px;">
-  <i>"Simplicity is the ultimate sophistication."</i>
+<!-- FOOTER -->
+<p align="center" style="color: #8b949e; font-size: 12px; letter-spacing: 1px;">
+  <code>01000100 01010010 01000101 01010011 01010101 01000011 01000001 01010011</code>
 </p>
